@@ -13,6 +13,7 @@ def crear_lista_estudiantes(cantidadEstudiantes):
         estudiantes.append(estudiante)
     return estudiantes
 
+
 #Invocando la funcion
-resultado=crear_lista_estudiantes(2000)
-print(resultado)
+#resultado=crear_lista_estudiantes(2000)
+#print(resultado)
